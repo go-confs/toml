@@ -7,7 +7,7 @@ import (
 	"net/mail"
 	"time"
 
-	"github.com/BurntSushi/toml"
+	"github.com/go-confs/toml"
 )
 
 func ExampleEncoder_Encode() {

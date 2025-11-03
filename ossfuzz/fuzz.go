@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/BurntSushi/toml"
+	"github.com/go-confs/toml"
 )
 
 func FuzzToml(data []byte) int {

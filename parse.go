@@ -9,7 +9,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/BurntSushi/toml/internal"
+	"github.com/go-confs/toml/internal"
 )
 
 type parser struct {

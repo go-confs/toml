@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/BurntSushi/toml/internal"
+	"github.com/go-confs/toml/internal"
 )
 
 type tomlEncodeError struct{ error }

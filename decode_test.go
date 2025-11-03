@@ -15,7 +15,7 @@ import (
 	"testing/fstest"
 	"time"
 
-	"github.com/BurntSushi/toml/internal"
+	"github.com/go-confs/toml/internal"
 )
 
 func WithTomlNext(f func()) {
