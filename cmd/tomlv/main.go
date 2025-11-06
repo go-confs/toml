@@ -14,7 +14,7 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"github.com/BurntSushi/toml"
+	"github.com/go-confs/toml"
 )
 
 var (

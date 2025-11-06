@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/BurntSushi/toml/internal"
+	"github.com/go-confs/toml/internal"
 )
 
 // Add JSON tags to a data structure as expected by toml-test.

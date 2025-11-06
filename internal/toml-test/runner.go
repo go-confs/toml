@@ -18,7 +18,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/BurntSushi/toml"
+	"github.com/go-confs/toml"
 )
 
 type testType uint8

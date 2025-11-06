@@ -11,9 +11,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/BurntSushi/toml"
-	"github.com/BurntSushi/toml/internal/tag"
-	tomltest "github.com/BurntSushi/toml/internal/toml-test"
+	"github.com/go-confs/toml"
+	"github.com/go-confs/toml/internal/tag"
+	tomltest "github.com/go-confs/toml/internal/toml-test"
 )
 
 // Test if the error message matches what we want for invalid tests. Every slice
